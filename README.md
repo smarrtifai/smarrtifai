@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! We are SMARRTIF AI <br>Are you a working professional, recent graduate, or fresher looking to upskill for the AI revolution?</h2>
+<h2 align="left">Hi there 👋! We are SMARRTIF AI <br>Are you a working professional, recent graduate, or fresher looking to upskill for the AI revolution?</h2>
 
 ###
 
