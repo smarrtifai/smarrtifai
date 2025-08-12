@@ -1,14 +1,10 @@
 <div align="center">
-  <img height="100" src="https://smarrtifai.com/wp-content/uploads/2024/09/Smarrtifai_FINAL_19th-Sept--600x600.png"  />
+  <img height="200" src="https://smarrtifai.com/wp-content/uploads/2024/09/Smarrtifai_FINAL_19th-Sept--600x600.png"  />
 </div>
 
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img height="386" src="https://scontent.fdel3-4.fna.fbcdn.net/v/t39.30808-6/468056774_122130502670385943_747945816873995079_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=gXZrCkuJtGIQ7kNvwGO7ghf&_nc_oc=AdmoRzq8yXsgOH1fKRHLtY61elXfbSVbWPN3JNF6rBDIsstFR0UWqqOnGhnAYWdwIa8IHeGB7zRCKqOyRw5322Nu&_nc_zt=23&_nc_ht=scontent.fdel3-4.fna&_nc_gid=WC4HJCvLjJcqpx2J8ItTUg&oh=00_AYG1CelvG7s5MojrH16iQgLudav9adK9HpY_A8nYP__x4A&oe=67F6CD3C"  />
-</div>
 
 ###
 
